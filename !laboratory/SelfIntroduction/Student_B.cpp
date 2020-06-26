@@ -6,7 +6,11 @@
 
 
 //=====================================================================================//
-void comment_Student_B()
+void comment_Student_D()
 {
+    Serial.println("氏名：小野賢児");
+    Serial.println("出身：岡山県倉敷市");
+    Serial.println("所属：情報機器開発本部");
+    Serial.println("研究：医用画像解析");
+    Serial.println("趣味：パン作り、スポーツ、読書");
 }
-
