@@ -6,7 +6,7 @@
 
 
 //=====================================================================================//
-void comment_Student_D()
+void comment_Student_B()
 {
     Serial.println("氏名：小野賢児");
     Serial.println("出身：岡山県倉敷市");
